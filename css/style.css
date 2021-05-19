@@ -51,6 +51,10 @@ main div{
     width: 24%;
     float: left;
     margin: 5px;
+    transform: scale(0.8);
+}
+.imagens:hover{
+    transform: scale(1.1);
 }
 .imagens img{
     width: 100%;
